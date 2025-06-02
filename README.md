@@ -1,4 +1,6 @@
-<img src="logo_david.png" align="center" align-items="center" width="50%">
+<div align="center">
+  <img src="logo_david.png" width="50%">
+</div>
 <h1 align="center">¡Hola! Soy David Emmanuel Cerda Martinez 👋</h1>
 
 <p align="center">
