@@ -1,4 +1,4 @@
-<img src="tenor.gif" align="center" width="100px">
+<img src="tenor.gif" align="center" align-items="center" width="100px">
 <h1 align="center">¡Hola! Soy David Emmanuel Cerda Martinez 👋</h1>
 
 <p align="center">
