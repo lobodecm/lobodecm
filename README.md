@@ -1,20 +1,20 @@
 <div align="center">
   <img src="logo_david.png" width="30%">
 </div>
-<h1 align="center">¡Hola! Soy David Emmanuel Cerda Martinez 👋</h1>
+<h1 align="center">Hello! I'm David Emmanuel Cerda Martinez 👋</h1>
 
 <p align="center">
-  Alias: <strong>Lobo decm</strong> | Software Developer Full-Stack 🚀
+  Alias: <strong>Lobo decm</strong> | Full-Stack Software Developer 🚀
 </p>
 
 ---
-<img src="tenor.gif" align="center" align-items="center" width="100px">
-### 💼 Sobre mí
+<img src="tenor.gif" align="center" width="100px">
+### 💼 About Me
 As a software developer, my passion is transforming ideas into robust and scalable web applications. I specialize in full-stack solutions: on the frontend, I'm proficient in JavaScript, React, and Next.js, creating dynamic and responsive interfaces with HTML, CSS, Tailwind CSS, and SASS. On the backend, I build efficient APIs with Node.js and manage SQL and MongoDB databases. Furthermore, I apply agile methodologies like Scrum and Waterfall in my projects, utilizing Git and GitHub for impeccable version control. I'm actively seeking roles where I can design, develop, and deploy innovative products that make a significant impact.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Technologies & Tools
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -30,14 +30,14 @@ As a software developer, my passion is transforming ideas into robust and scalab
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 <p align="center">
   <img alt="David's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lobodecm&show_icons=true&theme=dark&hide_title=true" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobodecm&layout=compact&theme=dark&hide_title=true" />
 </p>
 
 <details>
-  <summary>🔥 Racha de commits (streak)</summary>
+  <summary>🔥 Commit Streak</summary>
   <p align="center">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lobodecm&theme=dark" />
   </p>
@@ -45,7 +45,7 @@ As a software developer, my passion is transforming ideas into robust and scalab
 
 ---
 
-### 📫 Contáctame
+### 📫 Contact Me
 - [GitHub](https://github.com/lobodecm)  
 - [LinkedIn](https://linkedin.com/in/david-emmanuel-cerda-martinez-854592251)  
 - ✉️ davidmartienz5732891@gmail.com
@@ -53,23 +53,23 @@ As a software developer, my passion is transforming ideas into robust and scalab
 ---
 
 <details>
-<summary>🎯 Cursos y certificaciones</summary>
+<summary>🎯 Courses & Certifications</summary>
 
-- Curso de bases de datos  
-- Curso de trabajo remoto  
-- Certificación de inglés nivel B2  
+- Database Course  
+- Remote Work Course  
+- English Certification B2 Level  
 </details>
 
 <details>
-<summary>🎮 Hobbies y pasatiempos</summary>
+<summary>🎮 Hobbies & Interests</summary>
 
 - 🏀 Basketball  
-- 🎹 Tocar el piano  
-- 🎧 Escuchar música  
-- 🎮 Jugar videojuegos  
-- ♟️ Juegos de estrategia y boardgames  
+- 🎹 Playing Piano  
+- 🎧 Listening to Music  
+- 🎮 Playing Video Games  
+- ♟️ Strategy Games & Boardgames  
 </details>
 
 ---
 
-¡Gracias por visitar mi perfil! Espero conectar contigo pronto 😊
+Thanks for visiting my profile! Hope to connect with you soon 😊
