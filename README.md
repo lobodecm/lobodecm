@@ -1,4 +1,4 @@
-![Cascada de números binarios](tenor.gif) <h1 align="center">¡Hola! Soy David Emmanuel Cerda Martinez 👋</h1>
+<img src="tenor.gif" width="50px"> <h1 align="center">¡Hola! Soy David Emmanuel Cerda Martinez 👋</h1>
 <p align="center">
   Alias: <strong>Lobo decm</strong> | Software Developer Full-Stack 🚀
 </p>
