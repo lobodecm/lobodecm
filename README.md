@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo_david.png" width="50%">
+  <img src="logo_david.png" width="30%">
 </div>
 <h1 align="center">¡Hola! Soy David Emmanuel Cerda Martinez 👋</h1>
 
