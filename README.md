@@ -28,14 +28,14 @@ As a software developer, my passion is transforming ideas into robust and scalab
 
 ### 📈 Estadísticas de GitHub
 <p align="center">
-  <img alt="David's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=David%20Martinez&show_icons=true&theme=dark&hide_title=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David%20Martinez&layout=compact&theme=dark&hide_title=true" />
+  <img alt="David's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lobodecm&show_icons=true&theme=dark&hide_title=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lobodecm&layout=compact&theme=dark&hide_title=true" />
 </p>
 
 <details>
   <summary>🔥 Racha de commits (streak)</summary>
   <p align="center">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=David%20Martinez&theme=dark" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lobodecm&theme=dark" />
   </p>
 </details>
 
