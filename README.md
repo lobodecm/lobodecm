@@ -16,7 +16,7 @@ As a software developer, my passion is transforming ideas into robust and scalab
 
 ### 🛠️ Technologies & Tools
 
-<img src="tenor.gif" align="center" width="100px">
+<div align="right"><img src="tenor.gif" align="center" width="100px"><div>
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
