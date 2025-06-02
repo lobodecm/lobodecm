@@ -4,6 +4,7 @@
 <h1 align="center">Hello! I'm David Emmanuel Cerda Martinez 👋</h1>
 
 <p align="center">
+  <div align="left"><img src="tenor.gif" align="center" width="100px"><div>
   Alias: <strong>Lobo decm</strong> | Full-Stack Software Developer 🚀
 </p>
 
@@ -15,8 +16,6 @@ As a software developer, my passion is transforming ideas into robust and scalab
 ---
 
 ### 🛠️ Technologies & Tools
-
-<div align="left"><img src="tenor.gif" align="center" width="100px"><div>
   
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
