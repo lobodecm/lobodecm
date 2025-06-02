@@ -1,4 +1,4 @@
-<img src="tenor.gif" width="200px aling="right"> <h1 align="center">¡Hola! Soy David Emmanuel Cerda Martinez 👋</h1>
+<h1 align="center"><img src="tenor.gif" width="200px>¡Hola! Soy David Emmanuel Cerda Martinez 👋</h1>
 <p align="center">
   Alias: <strong>Lobo decm</strong> | Software Developer Full-Stack 🚀
 </p>
