@@ -4,7 +4,7 @@
 </p>
 
 ---
-![Gatito](tenor.png)
+![Cascada de números binarios](tenor.gif)
 ### 💼 Sobre mí
 As a software developer, my passion is transforming ideas into robust and scalable web applications. I specialize in full-stack solutions: on the frontend, I'm proficient in JavaScript, React, and Next.js, creating dynamic and responsive interfaces with HTML, CSS, Tailwind CSS, and SASS. On the backend, I build efficient APIs with Node.js and manage SQL and MongoDB databases. Furthermore, I apply agile methodologies like Scrum and Waterfall in my projects, utilizing Git and GitHub for impeccable version control. I'm actively seeking roles where I can design, develop, and deploy innovative products that make a significant impact.
 
