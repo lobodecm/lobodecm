@@ -1,8 +1,9 @@
+<div backgroundcolor="black">
 <div align="center">
   <img src="logo_david.png" width="30%">
 </div>
 <h1 align="center">Hello! I'm David Emmanuel Cerda Martinez 👋</h1>
-
+</div>
 <p align="center">
   Alias: <strong>Lobo decm</strong> | Full-Stack Software Developer 🚀
 </p>
