@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo_david.png" alt="Logo LOBO DECM" style="max-width: 1200px; width: 100%;" />
+  <img src="logo_david.png" alt="Logo LOBO DECM" style="max-width: 1200px; width: 100%; height:400px;" />
   <img src="logo_david.png" width="30%">
 </div>
 <h1 align="center">Hello! I'm David Emmanuel Cerda Martinez 👋</h1>
