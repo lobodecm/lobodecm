@@ -1,4 +1,4 @@
-<div align="center" style="max-width: 1200px; width: 100%; height:200px; background-color: black;"></div>
+<div align="center" style="max-width: 1200px; width: 100%; height:200px; background-color: "black";"></div>
 <div align="center">
   <img src="logo_david.png" alt="Logo LOBO DECM" style="max-width: 1200px; width: 100%; height:200px;" />
   <img src="logo_david.png" width="30%">
