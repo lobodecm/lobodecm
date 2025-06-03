@@ -1,4 +1,4 @@
-<div align="center" border-radius="50%">
+<div align="center">
   <img src="logo_david.png" width="30%">
 </div>
 <h1 align="center">Hello! I'm David Emmanuel Cerda Martinez 👋</h1>
