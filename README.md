@@ -1,4 +1,4 @@
-<div backgroundcolor="black">
+<div background-color="black">
 <div align="center">
   <img src="logo_david.png" width="30%">
 </div>
