@@ -75,7 +75,8 @@ As a software developer, my passion is transforming ideas into robust and scalab
 
 ### 📫 Contact Me
 - [GitHub](https://github.com/lobodecm)  
-- [LinkedIn](https://linkedin.com/in/david-emmanuel-cerda-martinez-854592251)  
+- [LinkedIn](https://www.linkedin.com/in/softwaredeveloper-david)
+-   
 - ✉️ davidmartienz5732891@gmail.com
 
 ---
