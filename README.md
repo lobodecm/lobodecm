@@ -73,7 +73,7 @@ As a software developer, my passion is transforming ideas into robust and scalab
 
 ---
 
-### 📫 Contact Me
+### 📫 Click on the button to Contact Me
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/lobodecm)  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/softwaredeveloper-david)
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:davidmartienz5732891@gmail.com)
